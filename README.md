@@ -6,9 +6,8 @@ This repository contains a set of scripts for data cleaning tasks using the Pand
 
 ## Project Structure
 
-
-- **`dataCleaningInPandas/`**: Directory containing the main data cleaning script.
 - **`source/`**: Directory containing the source data files.
+- **`dataCleaningInPandas/`**: Directory containing the main data cleaning/ exploring script with.
 
 ## Getting Started
 
@@ -38,8 +37,10 @@ This repository contains a set of scripts for data cleaning tasks using the Pand
 2. Run the data cleaning script:
 
     Do step by step in JupyterNotebook file
+    
+3. Make your tweak with these sample script
 
-3. The cleaned data will be saved in the same directory for deleting purpose.
+4. The cleaned data will be saved in the same directory for deleting purpose.
 
 ## Contributing
 
@@ -57,3 +58,5 @@ This project is licensed under the [Apache License](LICENSE).
 ## Acknowledgments
 
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/index.html) for valuable resources on data cleaning with Pandas.
+- Most of these instruction are from multiple youtube videos, here are all of them
+1. https://www.youtube.com/watch?v=xi0vhXFPegw&t=461s
