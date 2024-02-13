@@ -59,4 +59,5 @@ This project is licensed under the [Apache License](LICENSE).
 
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/index.html) for valuable resources on data cleaning with Pandas.
 - Most of these instruction are from multiple youtube videos, here are all of them
-1. https://www.youtube.com/watch?v=xi0vhXFPegw&t=461s
+1. Exlore data: https://www.youtube.com/watch?v=xi0vhXFPegw&t=461s
+2. Pandas hands-on tutorial: https://www.youtube.com/watch?v=DkjCaAMBGWM&t=2s
