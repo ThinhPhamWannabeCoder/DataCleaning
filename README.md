@@ -2,12 +2,15 @@
 
 ## Overview
 
-This repository contains a set of scripts for data cleaning tasks using the Pandas library in Python. The primary script, located in the `dataCleaningInPandas` directory, is designed to clean and preprocess data stored in the `source` directory.
+This repository contains a set of scripts for data cleaning tasks using the Pandas library in Python. The primary script, located in the `dataCleaningInPandas` directory, is designed to clean and preprocess data stored in the `source` directory so that the final clean dataset will be save in `destination` directory
 
 ## Project Structure
 
-- **`source/`**: Directory containing the source data files.
+
 - **`dataCleaningInPandas/`**: Directory containing the main data cleaning/ exploring script with.
+- **`source/`**: Directory containing the source data files.
+- **`destination/`**: Directory containing the result data files
+
 
 ## Getting Started
 
@@ -34,13 +37,15 @@ This repository contains a set of scripts for data cleaning tasks using the Pand
 
 1. Ensure that the source data files are placed in the `source/` directory.
 
-2. Run the data cleaning script:
+2. Change the directory in pd.read* adn pd.to* because what I used are absolute path
+
+3. Run the data cleaning script:
 
     Do step by step in JupyterNotebook file
     
-3. Make your tweak with these sample script
+4. Make your tweak with these sample script
 
-4. The cleaned data will be saved in the same directory for deleting purpose.
+5. The cleaned data will be saved in `destination/` directory
 
 ## Contributing
 
